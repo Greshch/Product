@@ -1,10 +1,4 @@
-INSERT INTO Country(name) VALUES( 'Ukraine' );
-INSERT INTO Country(name) VALUES( 'USA' );
-INSERT INTO Country(name) VALUES( 'UK' );
-INSERT INTO Country(name) VALUES( 'Germany' );
-INSERT INTO Country(name) VALUES( 'France' );
-INSERT INTO Country(name) VALUES( 'China' );
-INSERT INTO Country(name) VALUES( 'Sweaden' );
-INSERT INTO Country(name) VALUES( 'Poland' );
-INSERT INTO Country(name) VALUES( 'Japan' );
-INSERT INTO Country(name) VALUES( 'Turkey' );
+INSERT INTO Country(name) VALUES( 'Italy' );
+INSERT INTO Country(name) VALUES( 'Netherland' );
+INSERT INTO Country(name) VALUES( 'Spain' );
+INSERT INTO Country(name) VALUES( 'Portugal' );
