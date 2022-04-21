@@ -1,8 +1,10 @@
-Bakery
-Beverage
-Nonfood & Pharmacy
-Produce & Floral
-Deli
-Prepared Foods
-Meat
-Seafood
+Ukraine
+USA
+UK
+Germany
+France
+China
+Sweaden
+Poland
+Japan
+Turkey
