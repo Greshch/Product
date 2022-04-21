@@ -1,0 +1,3 @@
+/home/dima/projects/Product/build/CMakeFiles/rebuild_cache.dir
+/home/dima/projects/Product/build/CMakeFiles/edit_cache.dir
+/home/dima/projects/Product/build/CMakeFiles/app.dir
