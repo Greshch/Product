@@ -22,7 +22,7 @@ int main(int argc, char** argv)
     ifstream reader(src_file); // открываем файл для чтения
     string dest_file = argv[2];
     ofstream writer(dest_file, ios_base::out);
-    string beg = "INSERT INTO Category(name) VALUES(";
+    string beg = "INSERT INTO Category(name) VALUES( ";
     string lf = "'";
     string rg = "'";
     string en = " );";
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
         {
             if (temp.size())
             {
-                cout << temp << endl;
+                writer << beg + lf + temp + rg + en << endl;
             }
             else
             {
